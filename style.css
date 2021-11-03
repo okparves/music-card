@@ -1,6 +1,6 @@
 body {
     background: linear-gradient(rgba(202, 225, 253, 0.45), rgba(185, 214, 250, 0.45)), /**/
-    url(../images/pattern-background-desktop.svg);
+    url(./images/pattern-background-desktop.svg);
     height: 100vh;
     background-repeat: no-repeat;
     background-size: contain;
